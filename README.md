@@ -1,5 +1,3 @@
-# Backend MERN - Calendar
+# Backend MERN - Donantes
 
-Backend que creamos en mi curso de React: de cero a experto
-
-fernando-herrera.com
+Backend que creamos para proyecto con React
